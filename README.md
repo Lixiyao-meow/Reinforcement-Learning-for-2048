@@ -10,4 +10,5 @@ The Neural Network did not give a satisfying result, but Monte Carlo Tree Search
 # To run the 2048 game and play it with our AI
 
 python3 game_display.py
+
 Then press "P" to launch the AI.
