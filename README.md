@@ -1,5 +1,5 @@
 # Reinforcement-Learning-for-2048
-We use two different approches to solve the 2048 game.
+We use two different approches to solve the 2048 game. You can find a detailed report in this repository explaining our implementation and the results we got with each method.
 
 The second one is based on the Mikhai lLenko's code: https://github.com/kiteco/python-youtube-code/tree/master/AI-plays-2048
 
