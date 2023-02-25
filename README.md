@@ -5,7 +5,7 @@ The second one is based on the Mikhai lLenko's code: https://github.com/kiteco/p
 
 This repository contains:
 1. Policy Neural Network 
-2. Monte Carlo Game Search
+2. Monte Carlo Tree Search
 
 The Neural Network did not give a satisfying result, but Monte Carlo Tree Search has outstanding performance in 2048 game playing.
 
